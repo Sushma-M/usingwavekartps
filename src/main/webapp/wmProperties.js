@@ -1,5 +1,5 @@
 var _WM_APP_PROPERTIES = {
-  "activeTheme" : "cool-blue",
+  "activeTheme" : "gray-orange",
   "defaultLanguage" : "en",
   "displayName" : "usingWaveKArtPS",
   "homePage" : "Main",
