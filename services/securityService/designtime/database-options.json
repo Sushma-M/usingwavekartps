@@ -1,0 +1,18 @@
+{
+  "modelName" : "eshopping",
+  "entityName" : "User",
+  "tableName" : "USER",
+  "unamePropertyName" : "email",
+  "unameColumnName" : "EMAIL",
+  "uidPropertyName" : "id",
+  "uidColumnName" : "ID",
+  "pwPropertyName" : "password",
+  "pwColumnName" : "PASSWORD",
+  "rolePropertyName" : "role",
+  "roleColumnName" : "ROLE",
+  "useRolesQuery" : false,
+  "rolesByUsernameQuery" : "",
+  "tenantIdField" : null,
+  "defTenantId" : 0,
+  "tenantIdPropertyName" : null
+}
